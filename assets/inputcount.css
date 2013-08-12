@@ -1,0 +1,11 @@
+.ic-tbx .tl{background:url('img/tl.png') no-repeat; border: 0; }
+.ic-tbx .t{background:url('img/t.png') repeat-x; height:15px; border: 0; }
+.ic-tbx .tr{background:url('img/tr.png') no-repeat; border: 0; }
+.ic-tbx .l{background:url('img/l.png') repeat-y; width:16px; border: 0; }
+.ic-tbx .r{background:url('img/r.png') repeat-y; width:16px; border: 0; }
+.ic-tbx .bl{background:url('img/bl.png') no-repeat; border: 0; }
+.ic-tbx .b{background:url('img/b.png') no-repeat; height:25px; border: 0; }
+.ic-tbx .br{background:url('img/br.png') no-repeat; border: 0; }
+.ic-tbx .c{background:url('img/c.png') repeat; border: 0; }
+.ic-tbx .err{float:left}
+.ic-tbx p{width:auto; display:block; font-size:10px; font-family:tahoma,verdana,"sans-serif"; margin:0; padding:0; border:0; color:#FFF}
